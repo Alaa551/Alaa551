@@ -1,6 +1,17 @@
 <h1 align="center">Hi 👋, I'm Alaa Hassan</h1>
 <h3 align="center">Software Engineer | .NET Backend Developer</h3>
 
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alaa-hassan-817b06281/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:alaahassan2019th@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+
 - 🌱 I’m currently learning **ASP.NET Core, Entity Framework, SQL, Clean Architecture**
 
 - 👯 I’m looking to collaborate on **Backend projects, APIs, and open-source .NET tools**
